@@ -106,6 +106,12 @@ section {
     min-width: 200px;
     color: #596fd8;
 }
+
+.amazonMainPage{
+    text-align: center;
+}
+
+
 .amazon-list {
     display: grid;
     grid-template-columns: 1fr 1fr;
