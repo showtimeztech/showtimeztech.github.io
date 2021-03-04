@@ -107,16 +107,17 @@ section {
     color: #596fd8;
 }
 
-.amazonMainPage{
+.amazon-main-page {
     text-align: center;
+    margin-bottom: 30px;
 }
-
 
 .amazon-list {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-column-gap: 40px;
 }
+
 .amazon-li {
     display: flex;
     align-items: center;
@@ -141,6 +142,28 @@ section {
     border: none;
 }
 .stockTrading-link {
+    min-width: 200px;
+    color: #596fd8;
+}
+
+.ebay-main-page {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.ebay-main-page a:first-of-type {
+    margin-right: 20px;
+}
+.ebay-li {
+    display: flex;
+    align-items: center;
+    min-height: 50px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.ebay-li:last-of-type {
+    border: none;
+}
+.ebay-li a {
     min-width: 200px;
     color: #596fd8;
 }

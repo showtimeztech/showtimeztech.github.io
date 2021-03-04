@@ -306,6 +306,20 @@ const amazonUS = [
         url: 'https://amzn.to/2PuJfAz',
     }
 ];
+const ebay = [
+    {
+        itemNo: 1,
+        item: '矿架Mining Frame',
+        url: 'https://ebay.us/DiUpuW',
+    },
+    {
+        itemNo: 2,
+        item: 'Canada矿架Mining Frame',
+        url: 'https://ebay.us/WwI8Qv',
+    }
+];
+
+
 
 const referral = [
     {
@@ -440,6 +454,24 @@ function cryptoFunction() {
         referralLi.append(referralDes);
     })
     referralContainer.append(referralList);
+
+    //ebay
+    const ebayContainer = document.querySelector('#ebay');
+    const ebayUl = document.createElement('ul');
+    ebayUl.classList.add('ebay-type-container');
+    ebay.map((type) => {
+        const ebayLi = document.createElement('li');
+        ebayLi.classList.add('ebay-li');
+
+        const ebayA = document.createElement('a');
+        ebayA.setAttribute('href', type.url);
+        ebayA.setAttribute('target', "_blank");
+        ebayA.innerHTML = type.item;
+
+        ebayLi.append(ebayA);
+        ebayUl.append(ebayLi);
+    });
+    ebayContainer.append(ebayUl);
 }
 
 function stockTradingFunction() {
