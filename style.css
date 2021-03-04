@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+.slogan {
+    background-color: #ddd;
+    height: 300px;
+}
+.slogan-ch,
+.slogan-en {
+    text-align: center;
+    color: #111;
+}
+.slogan-ch {
+    margin-bottom: 20px;
+}
+.container {
+    width: 90%;
+    max-width: 1080px;
+    margin: auto;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.logo {
+    font-size: 30px;
+    font-weight: bolder;
+}
+.nav {
+    display: flex;
+    list-style: none;
+}
+.nav li {
+    margin-left: 30px;
+}
+.title {
+    font-size: 35px;
+    color: #222;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 5px;
+}
+.referral-li {
+    display: flex;
+    align-items: center;
+    min-height: 50px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.referral-li:last-of-type {
+    border: none;
+}
+.referral-link {
+    min-width: 200px;
+    color: #596fd8;
+}
+#jd {
+    display: flex;
+    flex-direction: column;
+    height: 1200px;
+    flex-wrap: wrap;
+}
+.jd-type-container {
+    margin-left: 40px;
+}
+.jd-type-container:first-child {
+    margin-left: 0;
+}
+.jd-type-container:nth-child(2) {
+    margin-left: 0;
+}
+.jd-type-header {
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.jd-type-list {
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+.jd-link-li {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.jd-link-li:first-of-type {
+    border-top: 1px solid #ccc;
+}
+.jd-link-li a {
+    min-width: 200px;
+    color: #596fd8;
+}
+.amazon-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+}
+.amazon-li {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.amazon-item {
+    min-width: 200px;
+}
+.amazon-link {
+    color: #596fd8;
+}
+.stockTrading-li {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.stockTrading-li:last-of-type {
+    border: none;
+}
+.stockTrading-link {
+    min-width: 200px;
+    color: #596fd8;
+}
+
+@media (max-width: 1080px) {
+    #jd {
+        height: auto;
+    }
+    .jd-type-container {
+        margin-left: 0;
+    }
+    .amazon-list {
+        grid-template-columns: 1fr;
+    }
+}
