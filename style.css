@@ -39,6 +39,9 @@ section {
     font-size: 30px;
     font-weight: bolder;
 }
+.logo a {
+    text-decoration: none;
+}
 .nav {
     display: flex;
     list-style: none;
@@ -53,6 +56,7 @@ section {
     margin-bottom: 30px;
     letter-spacing: 5px;
 }
+
 .referral-li {
     display: flex;
     align-items: center;
