@@ -338,7 +338,7 @@ const referral = [
         itemNo: 3,
         item: '币安binance',
         description: '（10%奖励）',
-        url: '',
+        url: 'https://www.binance.com/zh-CN/register?ref=ZOYXG9S4',
     },
     {
         itemNo: 4,
@@ -350,7 +350,7 @@ const referral = [
         itemNo: 5,
         item: 'OKEX',
         description: '首次购买200元及以上的数字货币，免费获得价值20元的比特币奖励。首次充值价值700元及以上的数字货币，可获得20 USDT的返佣卡。完成新手福利中的交易任务，可获得价值350元的比特币奖励。',
-        url: 'https://www.okex.me/join/2678868',
+        url: 'https://www.okexcn.com/join/2678868',
     },
     {
         itemNo: 6,
