@@ -362,7 +362,7 @@ const referral = [
         itemNo: 7,
         item: 'Coinsquare',
         description: '开户奖励',
-        url: 'coinsquare.com/register?r=Jd4bL',
+        url: 'http://coinsquare.com/register?r=Jd4bL',
     }
 ]
 
