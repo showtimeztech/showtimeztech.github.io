@@ -209,42 +209,42 @@ const amazonUS = [
     {
         itemNo: 1,
         item: 'RTX 3060ti',
-        url: 'https://amzn.to/38jBS5s',
+        url: '',
     },
     {
         itemNo: 2,
         item: 'RTX 3070',
-        url: 'https://amzn.to/3kTs8Uq',
+        url: '',
     },
     {
         itemNo: 3,
         item: 'RTX 3080',
-        url: 'https://amzn.to/3sXU4to',
+        url: '',
     },
     {
         itemNo: 4,
         item: 'RTX 3090',
-        url: 'https://amzn.to/3v4NyTu',
+        url: '',
     },
     {
         itemNo: 5,
         item: 'AMD 5700XT',
-        url: 'https://amzn.to/3v3FD92',
+        url: '',
     },
     {
         itemNo: 6,
         item: 'Corsair RM850X',
-        url: 'https://amzn.to/3kVmPEb',
+        url: '',
     },
     {
         itemNo: 7,
         item: '1200W PSU电源',
-        url: 'https://amzn.to/3rqkdAL',
+        url: '',
     },
     {
         itemNo: 8,
         item: '矿架',
-        url: 'https://amzn.to/2O1eClX',
+        url: '',
     },
     {
         itemNo: 9,
@@ -254,56 +254,56 @@ const amazonUS = [
     {
         itemNo: 10,
         item: 'Asus prime Z390-p',
-        url: 'https://amzn.to/2OrMxE6',
+        url: '',
     },
     {
         itemNo: 11,
         item: 'VELIHOME BTC-37 Mining Machine Motherboard',
-        url: 'https://amzn.to/2MTQ9hG',
+        url: '',
     },
     {
         itemNo: 12,
         item: 'MSI Z390-A PRO',
-        url: 'https://amzn.to/2PD1J1D',
+        url: '',
     },
     {
         itemNo: 13,
         item: 'PCIE RISER',
-        url: 'https://amzn.to/3cccFes',
+        url: '',
     },
     {
         itemNo: 14,
         item: '电源8pin分线器',
-        url: 'https://amzn.to/30lAECl',
+        url: '',
     },
     {
         itemNo: 15,
         item: '电源8pin分线器2',
-        url: 'https://amzn.to/3v4NYcw',
+        url: '',
     },
     {
         itemNo: 16,
         item: '金士顿120g SSD',
-        url: 'https://amzn.to/2OrMQPg',
+        url: '',
     },
     {
         itemNo: 17,
         item: '8g内存条',
-        url: 'https://amzn.to/3t1Jkdc',
+        url: '',
     },
     {
         itemNo: 18,
         item: '双电源2合1',
-        url: 'https://amzn.to/2PKE6V5',
+        url: '',
     },
     {
         itemNo: 19,
         item: '7带赛扬',
-        url: 'https://amzn.to/3qnj9vX',
+        url: '',
     }, {
         itemNo: 20,
         item: '主板电源开关',
-        url: 'https://amzn.to/3c8Pp0W',
+        url: '',
     }
 ];
 const ebay = [
