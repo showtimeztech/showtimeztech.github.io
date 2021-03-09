@@ -249,7 +249,7 @@ const amazonUS = [
     {
         itemNo: 9,
         item: '矿架2（铝）',
-        url: 'https://amzn.to/3eeJqu5',
+        url: '',
     },
     {
         itemNo: 10,
