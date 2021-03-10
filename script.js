@@ -209,7 +209,7 @@ const amazonUS = [
     {
         itemNo: 1,
         item: 'RTX 3060ti',
-        url: '',
+        url: 'https://amzn.to/2OypW8V',
     },
     {
         itemNo: 2,
@@ -239,7 +239,7 @@ const amazonUS = [
     {
         itemNo: 7,
         item: '1200W PSU电源',
-        url: '',
+        url: 'https://amzn.to/3v4BrWx',
     },
     {
         itemNo: 8,
@@ -249,12 +249,12 @@ const amazonUS = [
     {
         itemNo: 9,
         item: '矿架2（铝）',
-        url: '',
+        url: 'https://amzn.to/2O9aLTZ',
     },
     {
         itemNo: 10,
         item: 'Asus prime Z390-p',
-        url: '',
+        url: 'https://amzn.to/30wYefi',
     },
     {
         itemNo: 11,
@@ -269,12 +269,12 @@ const amazonUS = [
     {
         itemNo: 13,
         item: 'PCIE RISER',
-        url: '',
+        url: 'https://amzn.to/3v9xakq',
     },
     {
         itemNo: 14,
         item: '电源8pin分线器',
-        url: '',
+        url: 'https://amzn.to/2OImZ5W',
     },
     {
         itemNo: 15,
@@ -294,7 +294,7 @@ const amazonUS = [
     {
         itemNo: 18,
         item: '双电源2合1',
-        url: '',
+        url: 'https://amzn.to/3vdivFc',
     },
     {
         itemNo: 19,
