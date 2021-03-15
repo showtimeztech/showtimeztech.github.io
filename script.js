@@ -214,27 +214,27 @@ const amazonUS = [
     {
         itemNo: 2,
         item: 'RTX 3070',
-        url: '',
+        url: 'https://amzn.to/3li5yoT',
     },
     {
         itemNo: 3,
         item: 'RTX 3080',
-        url: '',
+        url: 'https://amzn.to/3th3Pms',
     },
     {
         itemNo: 4,
         item: 'RTX 3090',
-        url: '',
+        url: 'https://amzn.to/3linv6w',
     },
     {
         itemNo: 5,
         item: 'AMD 5700XT',
-        url: '',
+        url: 'https://amzn.to/3cAcgm2',
     },
     {
         itemNo: 6,
         item: 'Corsair RM850X',
-        url: '',
+        url: 'https://amzn.to/38EseKY',
     },
     {
         itemNo: 7,
@@ -244,7 +244,7 @@ const amazonUS = [
     {
         itemNo: 8,
         item: '矿架',
-        url: '',
+        url: 'https://amzn.to/3bNoAAl',
     },
     {
         itemNo: 9,
@@ -264,7 +264,7 @@ const amazonUS = [
     {
         itemNo: 12,
         item: 'MSI Z390-A PRO',
-        url: '',
+        url: 'https://amzn.to/3qNyYfR',
     },
     {
         itemNo: 13,
@@ -279,17 +279,17 @@ const amazonUS = [
     {
         itemNo: 15,
         item: '电源8pin分线器2',
-        url: '',
+        url: 'https://amzn.to/3bNdTOo',
     },
     {
         itemNo: 16,
         item: '金士顿120g SSD',
-        url: '',
+        url: 'https://amzn.to/3qOWtoF',
     },
     {
         itemNo: 17,
         item: '8g内存条',
-        url: '',
+        url: 'https://amzn.to/3cL9zyr',
     },
     {
         itemNo: 18,
@@ -299,11 +299,11 @@ const amazonUS = [
     {
         itemNo: 19,
         item: '7带赛扬',
-        url: '',
+        url: 'https://amzn.to/38CEDyS',
     }, {
         itemNo: 20,
         item: '主板电源开关',
-        url: '',
+        url: 'https://amzn.to/3bLz57e',
     }
 ];
 const ebay = [
