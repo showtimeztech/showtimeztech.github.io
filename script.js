@@ -1,8 +1,6 @@
-const jd = [
-    {
+const jd = [{
         type: "显卡",
-        array: [
-            {
+        array: [{
                 itemNo: 1,
                 item: '影驰（Galaxy）GeForce RTX3070',
                 url: 'https://www.bilibili.com/read/cv10219554',
@@ -75,8 +73,7 @@ const jd = [
     },
     {
         type: "配件",
-        array: [
-            {
+        array: [{
                 itemNo: 1,
                 item: '主板双电源转接线',
                 url: 'https://www.bilibili.com/read/cv10219554',
@@ -115,8 +112,7 @@ const jd = [
     },
     {
         type: "电源",
-        array: [
-            {
+        array: [{
                 itemNo: 1,
                 item: '长城巨龙',
                 url: 'https://www.bilibili.com/read/cv10219554',
@@ -145,8 +141,7 @@ const jd = [
     },
     {
         type: "主板",
-        array: [
-            {
+        array: [{
                 itemNo: 1,
                 item: '华硕（ ASUS）PRIME Z370-A II',
                 url: 'https://www.bilibili.com/read/cv10219554',
@@ -165,8 +160,7 @@ const jd = [
     },
     {
         type: "CPU",
-        array: [
-            {
+        array: [{
                 itemNo: 1,
                 item: '英特尔（Intel）g5900 g5905 g5420 g6400奔腾/赛扬',
                 url: 'https://www.bilibili.com/read/cv10219554',
@@ -180,8 +174,7 @@ const jd = [
     },
     {
         type: "旗舰店商城",
-        array: [
-            {
+        array: [{
                 itemNo: 1,
                 item: '"技嘉旗舰店"',
                 url: 'https://www.bilibili.com/read/cv10219554',
@@ -205,56 +198,55 @@ const jd = [
     },
 ];
 
-const amazonUS = [
-    {
+const amazonUS = [{
         itemNo: 1,
         item: 'RTX 3060ti',
-        url: 'https://amzn.to/2OypW8V',
+        url: '',
     },
     {
         itemNo: 2,
         item: 'RTX 3070',
-        url: 'https://amzn.to/3li5yoT',
+        url: '',
     },
     {
         itemNo: 3,
         item: 'RTX 3080',
-        url: 'https://amzn.to/3th3Pms',
+        url: '',
     },
     {
         itemNo: 4,
         item: 'RTX 3090',
-        url: 'https://amzn.to/3linv6w',
+        url: '',
     },
     {
         itemNo: 5,
         item: 'AMD 5700XT',
-        url: 'https://amzn.to/3cAcgm2',
+        url: '',
     },
     {
         itemNo: 6,
         item: 'Corsair RM850X',
-        url: 'https://amzn.to/38EseKY',
+        url: '',
     },
     {
         itemNo: 7,
         item: '1200W PSU电源',
-        url: 'https://amzn.to/3v4BrWx',
+        url: '',
     },
     {
         itemNo: 8,
         item: '矿架',
-        url: 'https://amzn.to/3bNoAAl',
+        url: '',
     },
     {
         itemNo: 9,
         item: '矿架2（铝）',
-        url: 'https://amzn.to/2O9aLTZ',
+        url: '',
     },
     {
         itemNo: 10,
         item: 'Asus prime Z390-p',
-        url: 'https://amzn.to/30wYefi',
+        url: '',
     },
     {
         itemNo: 11,
@@ -264,65 +256,63 @@ const amazonUS = [
     {
         itemNo: 12,
         item: 'MSI Z390-A PRO',
-        url: 'https://amzn.to/3qNyYfR',
+        url: '',
     },
     {
         itemNo: 13,
         item: 'PCIE RISER',
-        url: 'https://amzn.to/3v9xakq',
+        url: '',
     },
     {
         itemNo: 14,
         item: '电源8pin分线器',
-        url: 'https://amzn.to/2OImZ5W',
+        url: '',
     },
     {
         itemNo: 15,
         item: '电源8pin分线器2',
-        url: 'https://amzn.to/3bNdTOo',
+        url: '',
     },
     {
         itemNo: 16,
         item: '金士顿120g SSD',
-        url: 'https://amzn.to/3qOWtoF',
+        url: '',
     },
     {
         itemNo: 17,
         item: '8g内存条',
-        url: 'https://amzn.to/3cL9zyr',
+        url: '',
     },
     {
         itemNo: 18,
         item: '双电源2合1',
-        url: 'https://amzn.to/3vdivFc',
+        url: '',
     },
     {
         itemNo: 19,
         item: '7带赛扬',
-        url: 'https://amzn.to/38CEDyS',
+        url: '',
     }, {
         itemNo: 20,
         item: '主板电源开关',
-        url: 'https://amzn.to/3bLz57e',
+        url: '',
     }
 ];
-const ebay = [
-    {
+const ebay = [{
         itemNo: 1,
         item: '矿架Mining Frame',
-        url: 'https://ebay.us/DiUpuW',
+        url: '',
     },
     {
         itemNo: 2,
         item: 'Canada矿架Mining Frame',
-        url: 'https://ebay.us/WwI8Qv',
+        url: '',
     }
 ];
 
 
 
-const referral = [
-    {
+const referral = [{
         itemNo: 1,
         item: 'Hive OS',
         description: '10美金开户奖励 推荐码showtimez',
@@ -366,8 +356,7 @@ const referral = [
     }
 ]
 
-const stockTrading = [
-    {
+const stockTrading = [{
         itemNo: 1,
         item: 'Questrade',
         description: 'QPass key: 696312634417844 (最多可得$250奖励）',
